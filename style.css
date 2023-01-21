@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  background: rgb(240, 240, 240);
+}
+
+input {
+  height: 30px;
+  width: 300px;
+  font-size: 14px;
+  line-height: 20px;
+  border: 2px solid rgb(228, 228, 228);
+  border-radius: 5px;
+}
+.register-form-container {
+  background: white;
+  border-radius: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-top: 30px;
+  margin: auto;
+  margin-top: 100px;
+}
+.form-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+.form-field {
+  margin-bottom: 13px;
+}
+.form-fields{
+display: flex;
+flex-wrap: wrap;
+
+}
+.form-p {
+  margin-bottom: 30px;
+}
+.button {
+  display: block;
+  width: 300px;
+  height: 35px;
+  background: #237fff;
+  border-radius: 5px;
+  color: aliceblue;
+  border: 0;
+  margin-top: 20px;
+}
+.user-agreement {
+  position: relative;
+  bottom: -5px;
+  right: 134px;
+}
+label {
+  position: relative;
+  right: 135px;
+  bottom: 10px;
+}
+.form-fieldn{
+  margin-left: 25px;
+}
