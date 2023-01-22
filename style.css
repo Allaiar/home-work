@@ -19,7 +19,7 @@ input {
 .register-form-container {
   max-width: 700px;
   background: white;
-  border-radius: 20px;
+  border-radius: 15px;
   padding-left: 30px;
   padding-right: 30px;
   padding-bottom: 40px;
@@ -28,8 +28,8 @@ input {
   margin-top: 100px;
 }
 .form-title {
-  font-weight: 500;
-  font-size: 20px;
+  font-weight: 550;
+  font-size: 25px;
   line-height: 20px;
   margin-bottom: 10px;
 }
