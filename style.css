@@ -7,7 +7,12 @@ body {
   font-family: "Roboto", sans-serif;
   background: rgb(240, 240, 240);
 }
-
+.circle {
+  position: relative;
+  background: #556fe4;
+  width: 800px;
+  height: 700px;
+}
 input {
   height: 30px;
   width: 300px;
@@ -66,4 +71,10 @@ label {
 }
 .form-fieldn{
   margin-left: 25px;
+}
+.test{
+  height: 30px;
+  width: 300px;
+  font-size: 14px;
+  border-radius: 5px;
 }
